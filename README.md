@@ -7,8 +7,7 @@ This is used to make to do lists.
 \
 2.User can remove tasks from the list. \
 
-\
-3.User can sort the tasks based upon done and undone.\
+3.User can sort the tasks based upon done and undone. 
 
 
 
