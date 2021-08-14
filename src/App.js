@@ -23,7 +23,7 @@ function App() {
     // console.log("hey")
     filterHandler();
     saveLocalTodos();
-  }, [todos, status]);
+  }, [todos]);
 
 
   // Function
